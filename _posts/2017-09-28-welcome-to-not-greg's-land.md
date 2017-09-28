@@ -10,6 +10,7 @@ tags:
   - art
 ---
 
-This aint your typical Greg's land.
+This ain't your typical Greg's land.
 
-*oh man what do?
+#Hey how are you?
+* oh man what do?
