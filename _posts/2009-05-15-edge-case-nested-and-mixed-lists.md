@@ -2,13 +2,12 @@
 layout: post
 title: "Edge Case: Nested and Mixed Lists"
 categories:
-  - Edge Case
+  - Test Logs
 tags:
-  - content
+  - robotics
   - css
-  - edge case
-  - lists
-  - markup
+  - tsa
+  - art
 ---
 
 Nested and mixed lists are an interesting beast. It's a corner case to make sure that
