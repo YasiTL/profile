@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edge Case: Nested and Mixed Lists"
+title: "Not Your Typical Greg's Land"
 categories:
   - Test Logs
 tags:
