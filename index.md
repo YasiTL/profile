@@ -1,10 +1,12 @@
 ---
 layout: home
 ---
-# About Theme
+# I'm Yasaman Mostafavi.
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I am a high school student intrested in computer science and design.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+My main focuses include Robotics, TSA (Technology Student Association), creating art and trying to become a better human.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I hope you enjoy reading about my trials and tribulations through the vast land that is computer science. 
+
+Feel free to ask questions at any time via any of the links on the right. I'll do my best to respond.
