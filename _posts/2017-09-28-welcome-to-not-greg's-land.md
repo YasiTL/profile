@@ -5,12 +5,11 @@ date:   2017-09-28
 exerpt: "Im not sure how this whole blog thing works."
 
 categories:
-  - Test Logs
+  - Daily Logs
   
 tags:
+  - daily log
   - robotics
-  - css
-  - tsa
 ---
 
 This ain't your typical Greg's land.
