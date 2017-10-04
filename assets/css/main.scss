@@ -1,13 +1,10 @@
----
-sitemap: false
----
 
-@import "variables";
-@import "reset";
-@import "base";
-@import "site";
-@import "utilities";
-@import "syntax";
-@import "vendor/fonts";
-@import "vendor/font-awesome/font-awesome";
-@import "vendor/magnific-popup/magnific-popup";
+@import "/../_sass/variables";
+@import "/../_sass/reset";
+@import "/../_sass/base";
+@import "/../_sass/site";
+@import "/../_sass/utilities";
+@import "/../_sass/syntax";
+@import "/../_sass/vendor/fonts";
+@import "/../_sass/vendor/font-awesome/font-awesome";
+@import "/../_sass/vendor/magnific-popup/magnific-popup";
