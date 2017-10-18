@@ -5,11 +5,12 @@ date:   2017-09-28
 exerpt: "Im not sure how this whole blog thing works."
 
 categories:
-  - Daily Logs
+  - Test Logs
   
 tags:
-  - daily log
   - robotics
+  - css
+  - tsa
 ---
 
 This ain't your typical Greg's land.
@@ -62,6 +63,8 @@ is something that not everyone can do.
 * Learn how to not be bad at robotics.
 * Get a new project underway for my CS independent study or fix the old one.
 * Figure life out.
+
+TEST CHANGE???
   
   -- Yasi
   
