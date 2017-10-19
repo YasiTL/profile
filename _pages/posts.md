@@ -2,5 +2,5 @@
 layout: post-list
 title: Posts
 description: "List of posts"
-permalink: /post-link
+permalink: /posts.html
 ---
