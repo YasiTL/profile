@@ -156,7 +156,7 @@ figure {
   &.half {
     @media only screen and (min-width: $small) {
       > a, > img {
-        width: calc(30% - 4px);
+        width: calc(50% - 4px);
         float: left;
         margin-left: 1px;
         margin-right: 1px;
