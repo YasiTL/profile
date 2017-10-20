@@ -3,7 +3,7 @@ layout: home
 ---
 # I'm Yasaman Mostafavi.
 
-I am a high school student intrested in computer science and design.
+I am a high school student interested in computer science and design.
 
 My main focuses include Robotics, TSA (Technology Student Association), creating art and trying to become a better human.
 
